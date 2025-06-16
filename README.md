@@ -1,1 +1,1 @@
-# admob-verification
+google.com, pub-4061355177437856, DIRECT, f08c47fec0942fa0
